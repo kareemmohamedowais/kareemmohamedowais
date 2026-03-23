@@ -1,54 +1,161 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d97e&height=200&section=header&text=Kareem%20Mohamed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20%26%20RAG%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Kareem%20Mohamed&fontSize=42&fontColor=fff&fontAlignY=36&desc=🚀%20Backend%20Developer%20|%20🤖%20AI-Powered%20Systems%20|%20🔥%20RAG%20Solutions&descAlignY=58&descSize=16&animation=twinkling" width="100%"/>
 </div>
-
----
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D97E&center=true&vCenter=true&multiline=false&width=500&lines=Laravel+Backend+Developer+%F0%9F%9A%80;AI+%26+RAG+Systems+Builder+%F0%9F%A4%96;Building+Smart+Backend+Solutions+%E2%9A%A1;Open+for+Freelance+Work+%F0%9F%9F%A2)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D97E&center=true&vCenter=true&width=500&height=60&lines=Laravel+Backend+Developer;AI+%26+RAG+Developer;Building+Smart+Backend+Systems;Freelancer+Ready+🚀" alt="Typing SVG"/>
+  </a>
 </div>
 
+<br/>
+
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-```json
-{
-  "name"        : "Kareem Mohamed",
-  "role"        : "Backend Developer & AI Engineer",
-  "stack"       : ["Laravel", "Python", "LangChain", "RAG"],
-  "ai_models"   : ["Groq", "Gemini", "OpenRouter"],
-  "vector_db"   : "Pinecone",
-  "open_to_work": true,
-  "interests"   : ["AI Systems", "Data Analysis", "Machine Learning"]
-}
+```yaml
+name       : Kareem Mohamed
+role       : Backend Developer & AI Engineer
+focus      : Laravel • REST APIs • RAG Systems
+available  : true  # Open for Freelance 🟢
 ```
 
-- 🚀 Backend Developer specialized in **Laravel & REST APIs**
-- 🤖 Building advanced **RAG-based AI applications**
-- ⚙️ Working with **LangChain, LangGraph**, and AI agents
-- 🧠 Implementing **semantic search** with vector embeddings
-- 📊 Interested in **Data Analysis & Machine Learning**
-- 🟢 **Available for Freelance Work**
+- 💻 Backend Developer specialized in **Laravel & REST APIs**
+- ⚙️ Experienced in building scalable and clean backend systems (MVC Architecture)
+- 🤖 Integrating AI features and building **RAG-based applications**
+- 📊 Interested in Data Analysis & Machine Learning
+- 🟢 Available for Freelance Work
 
 ---
 
-## 🔥 Featured Project — Agentic AI Assistant
+## 💼 Freelance Services
 
-> A full AI-powered assistant built on advanced RAG architecture
+| | Service |
+|:---:|:---|
+| 🚀 | Build scalable **Laravel Backend Systems & REST APIs** |
+| 🤖 | Develop AI-powered applications (Chatbots & Smart Assistants) |
+| 🔥 | Design and implement **RAG Systems (Retrieval-Augmented Generation)** |
+| ⚙️ | Integrate AI models (OpenAI, Gemini, Groq) into real applications |
 
-| Feature | Details |
-|---|---|
-| 🤖 **Multi-Model AI** | Groq, Gemini, OpenRouter |
-| 🔥 **Triple RAG Pipelines** | Documents + DevDocs + GitHub Repos |
-| 🗄 **Vector Database** | Pinecone for semantic search |
-| ⚡ **Streaming Responses** | Real-time with memory management |
-| 🐍 **Python Sandbox** | Secure code execution & data analysis |
-| 🌐 **Web Search** | Real-time knowledge integration |
+---
+
+## 🧠 AI & RAG Skills
+
+<table>
+  <tr>
+    <td>🤖</td><td>Building and integrating <b>RAG-based applications</b></td>
+  </tr>
+  <tr>
+    <td>⚙️</td><td>Working with <b>LangChain & LangGraph</b> for AI workflows</td>
+  </tr>
+  <tr>
+    <td>🧠</td><td>Implementing semantic search using <b>embeddings</b></td>
+  </tr>
+  <tr>
+    <td>🗄</td><td>Using <b>Pinecone Vector Database</b> for knowledge retrieval</td>
+  </tr>
+  <tr>
+    <td>🔄</td><td>Developing AI agents and automation pipelines</td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<details open>
+<summary><b>🤖 Agentic AI Assistant (RAG System)</b></summary>
+<br/>
+
+> **Full AI-powered assistant built on advanced RAG architecture**
+
+- ✅ Built a full **AI-powered assistant** using advanced RAG architecture
+- ✅ Multi-Model AI support (Groq, Gemini, OpenRouter)
+- ✅ Triple RAG pipelines (Documents + DevDocs + GitHub Repos)
+- ✅ Real-time streaming responses with memory management
+- ✅ Integrated **Pinecone Vector Database** for semantic search
+- ✅ Secure **Python Sandbox** for data analysis and code execution
+- ✅ Web search integration for real-time knowledge
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+
+</details>
+
+---
+
+<details>
+<summary><b>🛒 Laravel Ecommerce System (MVC)</b></summary>
+<br/>
+
+- ✅ Developed a full ecommerce system using **Laravel MVC architecture**
+- ✅ Features: Products, Categories, Orders, Authentication
+- ✅ Role-based system (Admin / User)
+- ✅ Structured backend with clean controllers, models, and views
+- ✅ Optimized database relationships and queries
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</details>
+
+---
+
+<details>
+<summary><b>🧠 Diabetes Prediction System (ML + Laravel)</b></summary>
+<br/>
+
+- ✅ Built a Machine Learning model for disease prediction
+- ✅ Integrated ML model with Laravel backend
+- ✅ Accepts user medical data and returns predictions
+- ✅ Focused on healthcare AI solutions
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</details>
+
+---
+
+<details>
+<summary><b>📊 Smartphone Data Analysis Dashboard</b></summary>
+<br/>
+
+- ✅ Built interactive dashboards using **Plotly & Dash**
+- ✅ Visualized trends, distributions, and comparisons
+- ✅ Implemented multiple chart types (bar, line, pie, stacked)
+- ✅ Enabled filtering and real-time interaction
+- ✅ Extracted insights from large datasets
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+</details>
+
+---
+
+<details>
+<summary><b>📰 Laravel News System (MVC + API)</b></summary>
+<br/>
+
+- ✅ Built a dynamic news platform using **Laravel MVC + REST API**
+- ✅ Content management system (CRUD operations)
+- ✅ Category-based filtering and dynamic content loading
+- ✅ Developed API endpoints for future frontend/mobile integration
+- ✅ Clean UI using Blade templates
+- ✅ Structured codebase following MVC best practices
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-009688?style=flat-square)
+
+</details>
 
 ---
 
@@ -56,106 +163,40 @@
 
 <div align="center">
 
-**Backend**
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,mysql,js,git,github&theme=dark" />
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<br/><br/>
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**AI & RAG**
-
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
-
-**Database & Tools**
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+![AI-RAG](https://img.shields.io/badge/AI-RAG-00d97e?style=for-the-badge)
+
 </div>
-
----
-
-## 🚀 Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Agentic AI Assistant
-AI-powered assistant with RAG architecture, multi-model support, and real-time streaming.
-
-`Python` `LangChain` `LangGraph` `Pinecone` `RAG`
-
-</td>
-<td width="50%">
-
-### 🛒 Laravel Ecommerce System
-Full MVC ecommerce platform with role-based access, admin dashboard, and optimized queries.
-
-`Laravel` `PHP` `MySQL` `Blade` `MVC`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧠 Diabetes Prediction System
-ML model integrated with Laravel backend for real-time healthcare predictions.
-
-`Python` `ML` `Laravel` `REST API`
-
-</td>
-<td width="50%">
-
-### 📊 Smartphone Data Dashboard
-Interactive analytics dashboard with Plotly & Dash, real-time filtering, and large dataset handling.
-
-`Python` `Plotly` `Dash` `Data Analysis`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📰 Laravel News System
-Dynamic news platform with CMS, category filtering, and a REST API for mobile integration.
-
-`Laravel` `REST API` `Blade` `MVC`
-
-</td>
-<td width="50%">
-
-### ⚡ More Coming Soon...
-Always building something new at the intersection of backend engineering and AI.
-
-`Laravel` `Python` `AI` `RAG`
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kareem-owais&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=070b0f&title_color=00d97e&icon_color=00d97e&text_color=e6eaf0"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem-owais&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=070b0f&title_color=00d97e&text_color=e6eaf0"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kareem-owais&theme=tokyonight&hide_border=true&background=070b0f&ring=00d97e&fire=00d97e&currStreakLabel=00d97e" alt="GitHub Streak"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -164,18 +205,20 @@ Always building something new at the intersection of backend engineering and AI.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-kareemkm544%40gmail.com-00d97e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareemkm544@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kareem%20Mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-mohamed-owais/)
-[![Freelance](https://img.shields.io/badge/Status-Open%20for%20Freelance%20%F0%9F%9F%A2-00d97e?style=for-the-badge)](mailto:kareemkm544@gmail.com)
+[![Email](https://img.shields.io/badge/📧%20kareemkm544@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareemkm544@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-mohamed-owais/)
+[![Freelance](https://img.shields.io/badge/🟢%20Open%20for%20Freelance-00d97e?style=for-the-badge)](mailto:kareemkm544@gmail.com)
 
 </div>
 
 ---
 
+## ⚡ Fun Fact
+
+> *I build robust backend systems powered by AI to solve real-world problems efficiently 🚀*
+
+---
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d97e&height=100&section=footer&animation=fadeIn" width="100%"/>
-
-*"I build robust backend systems powered by AI to solve real-world problems efficiently 🚀"*
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
